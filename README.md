@@ -60,12 +60,12 @@ A: Absolutely, every template is editable.
 
 ### 🖼 Preview
 **1. Budget Template**  
-![Budget](https://support.microsoft.com/images/en-us/8bee2b97-7e0a-4a82-b047-59b117bc167d)  
+![Budget](https://www.trainingconnection.com/dist/images/excel/screen-excel-tooltip.webp)  
 *Monthly and yearly budget tracker*  
 
 
 **2. Planner Template**  
-![Planner](https://cdn.create.microsoft.com/catalog-assets/en-us/3d051b91-47b6-4f25-a716-a344536c6118/thumbnails/1038/weekly-schedule-planner-green-modern-simple-1-1-6b7be0d7c1e8.webp)  
+![Planner](https://www.planningpme.com/Img/monthly-excel-schedule-replacement-sheet.jpg)  
 *Daily and weekly planner sheet*  
 
 ---
